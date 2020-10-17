@@ -26,3 +26,5 @@
 
 * 
 
+<img src="https://github.com/gbjewjitsu/bjj/blob/main/media/keeping_the_mount_guy_pushes_with_both_arms.gif" width ="300"/>
+
