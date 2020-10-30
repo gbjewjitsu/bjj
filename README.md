@@ -7,5 +7,5 @@
 
 
 # Knee Cut
-* [Against De La Riva]
+* [Against De La Riva](https://github.com/gbjewjitsu/bjj/blob/main/Precision%20Knee%20Cut%20Passes/Knee%20Cut.md#against-de-la-riva)
 
